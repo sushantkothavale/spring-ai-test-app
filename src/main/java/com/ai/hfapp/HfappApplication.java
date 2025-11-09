@@ -1,13 +1,13 @@
-package com.test.ai.rag;
+package com.ai.hfapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RagApplication {
+public class HfappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RagApplication.class, args);
+		SpringApplication.run(HfappApplication.class, args);
 	}
 
 }
